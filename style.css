@@ -1,0 +1,36 @@
+li {
+  color: purple;
+}
+
+li {
+  color: red;
+}
+
+/* 
+ selector -> curly brackets
+ property: value;
+
+ 
+ selector (li) {
+	 property (color): value (purple);
+ }
+ */
+
+.joao-was-right {
+  font-size: 30px;
+}
+
+#joao-is-still-right {
+  font-size: 100px;
+}
+
+#example-blue {
+  color: blue;
+}
+
+.example-orange {
+  color: orange;
+}
+
+#daiane {
+}
